@@ -1,0 +1,31 @@
+.contact_image {
+    border-radius: 50%;
+}
+
+.contact {
+    padding: 8px;
+    border-bottom: 2px solid gray;
+}
+
+.contact_image {
+    margin-right: 10px;
+    float: left;
+}
+
+.contact_info {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact_name {
+    font-weight: 800;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.contact_phone {
+    color: gray;
+    margin-top: 0;
+}
